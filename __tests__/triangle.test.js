@@ -9,3 +9,4 @@ describe('Triangle', () => {
     expect(triangle.side3).toEqual(5);
   });
 });
+
