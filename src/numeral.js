@@ -4,3 +4,4 @@ export default function numCheck(i) {
   }
   return i; 
 }
+
